@@ -34,8 +34,8 @@ Mobile screenshot :
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [https://blog-preview-card-main-813p552lv-byt3busters-projects.vercel.app ](https://blog-preview-card-main-813p552lv-byt3busters-projects.vercel.app )
+- Solution URL: [https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+- Live Site URL: [https://blog-preview-card-main-lovat.vercel.app/](https://blog-preview-card-main-lovat.vercel.app/)
 
 ## My process
 
