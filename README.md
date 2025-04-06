@@ -24,7 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop screenshot :
 ![Desktop screenshot](./desktop-screenshot.jpeg)
+
+Mobile screenshot :
 ![Mobile screenshot](./mobile-screenshot.jpeg)
 
 ### Links
