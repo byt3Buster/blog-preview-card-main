@@ -34,8 +34,8 @@ Mobile screenshot :
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-main-813p552lv-byt3busters-projects.vercel.app )
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [](https://blog-preview-card-main-813p552lv-byt3busters-projects.vercel.app )
 
 ## My process
 
